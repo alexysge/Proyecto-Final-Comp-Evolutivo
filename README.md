@@ -7,5 +7,5 @@ python3 graficación.py
 y si solo quieres ver los resultados en terminal usar
 
 ```terminal
-$ $python3 portafolio.py $
+python3 portafolio.py
 ```
